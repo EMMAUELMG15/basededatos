@@ -1,0 +1,15 @@
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Variables de entorno y secretos
+.env
+*.env
+
+# Datos persistentes locales de Docker/Postgres (en caso de montajes locales directos)
+pgdata/
+*.log
+
+# Archivos temporales de editores
+.vscode/
+*.swp
