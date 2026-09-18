@@ -10,8 +10,8 @@
 ## Datos del Alumno
 - **Nombre completo:** Emmanuel Morales Gonzalez
 - **Carrera:** Ingeniería en Sistemas Computacionales
-- **Grupo:** [Ingresa tu grupo aquí, ej. 3CV1]
-- **Boleta:** [Ingresa tu boleta aquí]
+- **Grupo:**  3CV1
+- **Boleta:** 2025630602
 
 ---
 
