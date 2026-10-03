@@ -8,7 +8,7 @@ En un entorno colaborativo resuelve problemas críticos como:
 - **Trazabilidad:** Permite identificar con exactitud quién hizo un cambio, cuándo y cuál fue la justificación detrás del mismo.
 - **Historial recuperable:** Facilita regresar a un estado funcional si una nueva implementación rompe el código en producción.
 
-## 2. Diferencia entre Git y GitHub
+## 2. Diferencia entre Git y GitHubgit add docs/investigacion-ejercicio1.md
 Git y GitHub no son lo mismo:
 - **Git:** Es una herramienta de software local de control de versiones distribuido. Funciona directamente en el sistema operativo del desarrollador sin necesidad de conexión a internet para registrar cambios, ramas o fusiones.
 - **GitHub:** Es una plataforma en la nube (servicio de alojamiento) para repositorios Git. Proporciona una interfaz gráfica, herramientas de revisión de código (Pull Requests), gestión de incidencias (Issues), integración continua y mecanismos de colaboración en equipo.
